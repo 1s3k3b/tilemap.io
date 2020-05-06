@@ -7,9 +7,8 @@ It also supports GET, POST, and DELETE HTTP requests. (see [endpoints](#endpoint
 # Self hosting
 - Install [Node.js](https://nodejs.org/)
 - Download or clone the repository
-- Unpack it in a folder
-- `cd [folder name]`
-- `npm install`
+- `cd tilemap.io`
+- `npm i`
 - Make changes to code if you wish, like change ports, add an endpoint, customize the tilemap
 - `npm start`
 - Open `localhost:2000`
